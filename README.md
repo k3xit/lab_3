@@ -30,9 +30,3 @@
 
 ### Тестирование
 
-<img width="520" height="761" alt="image" src="https://github.com/user-attachments/assets/643e2a0a-317d-4b90-9bf2-b7b14e752fa4" />
-
-<img width="432" height="390" alt="image" src="https://github.com/user-attachments/assets/da0fdc46-1283-4724-862b-8e4267e2e0a2" />
-
-
-
